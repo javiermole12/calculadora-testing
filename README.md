@@ -1,6 +1,6 @@
 # Proyecto mínimo: Calculadora con Testing (UT 2.4)
 
-**Autores:** _Tu nombre y el de tu compañero/a_  
+**Autores:** Javier Moleón y Ioritz Perugorria 
 **Profesor:** Pablo Vallejo  
 **Asignatura:** UT 2.4 – Tipos de pruebas  
 
@@ -45,5 +45,6 @@ pip install pytest pytest-cov
 --------------------
 
 Ejecuta toda la suite de pruebas:
+
 
 make test
