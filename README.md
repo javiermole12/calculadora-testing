@@ -47,4 +47,5 @@ pip install pytest pytest-cov
 Ejecuta toda la suite de pruebas:
 
 
-make test
+pytest -v
+
