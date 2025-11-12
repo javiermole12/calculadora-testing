@@ -1,7 +1,7 @@
 # Proyecto mínimo: Calculadora con Testing (UT 2.4)
 
-**Autores:** Javier Moleón y Ioritz Perugorria 
-**Profesor:** Pablo Vallejo  
+**Autores:** Javier Moleón, Ioritz Perugorria y Hugo Rodriguez
+**Profesor:** Pablo/Ibai
 **Asignatura:** UT 2.4 – Tipos de pruebas  
 
 ---
@@ -48,4 +48,5 @@ Ejecuta toda la suite de pruebas:
 
 
 pytest -v
+
 
